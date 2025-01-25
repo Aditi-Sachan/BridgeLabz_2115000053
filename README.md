@@ -10,6 +10,13 @@ Day 3
 Date- 23/01/25
 Topic- Assignment 3 control flow practice problems done
 
+Day 4
+Date- 25/01/25
+Topic- Assignment 4 arrays practice problems done
+
+
+
+
 
 
 
