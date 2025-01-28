@@ -14,6 +14,13 @@ Day 4
 Date- 25/01/25
 Topic- Assignment 4 arrays practice problems done
 
+Day 5
+Date- 28/01/25
+Topic- Assignment 5 java method practice problems done
+
+
+
+
 
 
 
