@@ -18,6 +18,13 @@ Day 5
 Date- 28/01/25
 Topic- Assignment 5 java method practice problems done
 
+Day 6
+Date- 29/01/25
+Topic- Assignment 6 string and built-in function problems done
+
+
+
+
 
 
 
