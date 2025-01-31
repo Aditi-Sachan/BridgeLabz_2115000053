@@ -22,6 +22,13 @@ Day 6
 Date- 29/01/25
 Topic- Assignment 6 string and built-in function problems done
 
+Day 7
+Date- 31/01/25
+Topic- Assignment 7 class and object problems done
+
+
+
+
 
 
 
