@@ -26,6 +26,13 @@ Day 7
 Date- 31/01/25
 Topic- Assignment 7 class and object problems done
 
+Day 8
+Date- 01/02/25
+Topic- Assignment 8 java Constructors, Instance vs. Class Variables, Access Modifiers Level 1 problems done
+
+
+
+
 
 
 
