@@ -1,0 +1,15 @@
+
+Student             GradeCalculator
+   |                       |
+   | --- requestGrade() -->|
+   |                       |
+   |                       |--- calculateAverage() --->|
+   |                       |                           |
+   |                       |<--- return average score--|
+   |                       |
+   |                       |--- determineGrade() --->|
+   |                       |                          |
+   |                       |<--- return final grade --|
+   |<--- displayGrade() ---|
+   |                       |
+

@@ -1,0 +1,40 @@
++-------------------+
+|    Student       |
++-------------------+
+| - name          |
+| - studentId     |
+| - subjects: List<Subject> |
++-------------------+
+| + addSubject()   |
+| + getSubjects()  |
+| + calculateGrade() |
++-------------------+
+         | (1)  
+         |  
+         |  (Has multiple subjects)  
+         |  
+         | (Aggregation)  
+         v (Many)  
++-------------------+  
+|    Subject       |  
++-------------------+  
+| - subjectName   |  
+| - score        |  
++-------------------+  
+| + getSubjectName() |  
+| + getScore()       |  
++-------------------+  
+
++---------------------------+
+|    GradeCalculator       |
++---------------------------+
+| + calculateGrade(Student)  |
+| + calculateAverage(Student) |
++---------------------------+
+         |
+         |  (Uses Student to compute grades)
+         v
++-------------------+
+|    Student       |
++-------------------+
+
