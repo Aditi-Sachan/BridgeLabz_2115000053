@@ -42,6 +42,13 @@ Day 11
 Date- 07/02/25
 Topic- Assignment 11 inheritance problems done
 
+Day 12
+Date- 10/02/25
+Topic- Assignment 12 Encapsulation, Polymorphism, Interface and Abstract Class problems done
+
+
+
+
 
 
 
