@@ -54,6 +54,21 @@ Day 14
 Date- 13/02/25
 Topic- Assignment 14 Stack , Queue, HashMap and Hashing Function problems done
 
+Day 15
+Date- 14/02/25
+Topic- Assignment 15 Sorting Algorithms problems done
+1.Bubble Sort
+2.Insertion Sort
+3.Merge Sort
+4.Quick Sort
+5.Selection Sort
+6.Counting Sort
+7.Heap Sort
+
+
+
+
+
 
 
 
