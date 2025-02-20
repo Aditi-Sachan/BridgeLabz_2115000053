@@ -77,6 +77,21 @@ Day 18
 Date- 18/02/25
 Topic- Assignment 18 Java Generics problems done
 
+Day 19
+Date- 20/02/25
+Topic- Assignment 19 Collections problems done
+1.List Interface
+2.Set Interface
+3.Queue Interface
+4.Map Interface
+
+
+
+
+
+
+
+
 
 
 
