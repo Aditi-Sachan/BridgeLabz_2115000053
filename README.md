@@ -85,6 +85,13 @@ Topic- Assignment 19 Collections problems done
 3.Queue Interface
 4.Map Interface
 
+Day 20
+Date- 21/02/25
+Topic- Assignment 20 Java Streams problems done
+
+
+
+
 
 
 
