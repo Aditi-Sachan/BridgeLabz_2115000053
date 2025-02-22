@@ -89,6 +89,13 @@ Day 20
 Date- 21/02/25
 Topic- Assignment 20 Java Streams problems done, Assignment 21 Exceptions problems done
 
+Day 21
+Date- 22/02/25
+Topic- Assignment 21 Regex & JUnit problems done
+
+
+
+
 
 
 
