@@ -93,6 +93,13 @@ Day 21
 Date- 22/02/25
 Topic- Assignment 22 Regex & JUnit problems done
 
+Day 22
+Date- 24/02/25
+Topic- Assignment 23 Annotations, Reflection problems done
+
+
+
+
 
 
 
