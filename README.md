@@ -97,6 +97,13 @@ Day 22
 Date- 24/02/25
 Topic- Assignment 23 Annotations, Reflection problems done
 
+Day 23
+Date- 25/02/25
+Topic- Assignment 24 CSV Data Handling problems done
+
+
+
+
 
 
 
