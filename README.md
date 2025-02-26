@@ -101,6 +101,13 @@ Day 23
 Date- 25/02/25
 Topic- Assignment 24 CSV Data Handling problems done
 
+Day 24
+Date- 26/02/25
+Topic- Assignment 25 JSON Data problems done
+
+
+
+
 
 
 
